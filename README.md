@@ -795,3 +795,89 @@ Develop a content marketing strategy for [insert business] to attract, engage, a
 - [Bard](https://bard.google.com/)
 
 </details>
+
+# ChatGPT Software Development Prompt Archive
+
+This repository serves as an archive of useful prompts for ChatGPT tailored to various software development tasks. Each prompt is provided with a title and a code-like format for your convenience. 
+
+## 1. Explain Code or Concept
+
+Explain how the {concept or function} works in {programming language}.
+
+## 2. Syntax Check
+
+What is the correct syntax for a {statement or function} in {programming language}?
+
+## 3. Bug Fixing Assistance
+
+How do I fix the following {programming language} code which {explain the functioning}? {code snippet}
+
+## 4. Best Practices Guidance
+
+Show me best practices for writing {concept or function} in {programming language}.
+
+## 5. Code Optimization Request
+
+Optimize the following {programming language} code which {explain the functioning}: {code snippet}
+
+## 6. Code Generation
+
+Write a program/function to {explain functionality} in {programming language}.
+
+## 7. Code Conversion Assistance
+
+Convert the following {programming language 1} code to {programming language 2}: {code snippet}
+
+## 8. Code Execution as Interpreter
+
+I want you to act like a {programming language} interpreter/compiler. I will give you {programming language} code, and you will execute it. Do not provide any explanations. Do not respond with anything except the output of the code.
+
+## 9. Web Design Consultation Request
+
+I want you to act as a web design consultant. I will provide you with details related to an organization needing assistance in designing or redeveloping its website, and your role is to suggest the most suitable interface and features that can enhance user experience while also meeting the company’s business goals.
+
+## 10. Framework Recommendation Request
+
+Can you recommend a suitable front-end framework/library for my website? I’m making {type of website}.
+
+## 11. Code Comment Generation
+
+Regenerate the code snippet below, but please include comments on each line of code {enter code}.
+
+## 12. Readme Documentation Generation
+
+Generate documentation for the code below. You should include detailed instructions to allow a developer to run it on a local machine, explain what the code does, and list vulnerabilities that exist in this code. {enter code}
+
+## 13. Dataset Generation Request
+
+Generate {type of dataset} dataset containing {n} data points regarding {service or product} with fields including {fields}.
+
+## 14. Web Scraping Assistance
+
+Web scrape data from {url} using Python and Beautifulsoup.
+
+## 15. Planning Stage Consultation
+
+I’m in the planning phase of my software development project and need guidance on [specific task/challenge]. Here are some project details: [Provide a brief overview, requirements, timeline, team, and risks].
+
+## 16. SRS Document Generation
+
+Generate a comprehensive Software Requirements Specification (SRS) document for my software development project. The details are as follows: [Provide project overview, stakeholders, functional requirements, non-functional requirements, assumptions, and constraints.]
+
+## 17. Data Model and Design Suggestions
+
+I need suggestions for designing an effective data model for my software project. Here are some details: [Briefly describe the project, key functionalities, user requirements, data sources, and relationships].
+
+## 18. Scalability Advice Request
+
+I’m working on a software project and need advice on ensuring scalability. Details: [Briefly describe the project, current usage and future growth, and technology stack].
+
+## 19. Test Case Generation
+
+Can you help me write test cases for this feature {explain the feature}?
+
+## 20. Deployment Strategy Recommendations
+
+What are the best deployment strategies for this software project? {explain the project}
+
+These enriched prompts provide clear titles and a code-like format for easy reference and use. Feel free to use them in your software development tasks.
