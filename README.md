@@ -4,9 +4,74 @@ This repository contains a list of powerful ChatGPT prompts that can help you ge
 
 ## Table of Contents
 
-[[_TOC_]]
+# 🤖 DEV ChatGPT Prompts
 
-Prompts for Coders
+This repository contains a list of powerful ChatGPT prompts that can help you get the creative juices flowing.
+
+## Table of Contents
+
+- [Prompts for Coders](#prompts-for-coders)
+  - [Modernize and add best practices](#modernize-and-add-best-practices)
+  - [Review your code for logical errors and security concerns](#review-your-code-for-logical-errors-and-security-concerns)
+  - [Validate the recommendations (reflection)](#validate-the-recommendations-reflection)
+  - [Write the Code](#write-the-code)
+  - [Create Tests](#create-tests)
+  - [Re-write Prompt](#re-write-prompt)
+  - [Adding Documentation](#adding-documentation)
+  - [Write your terms and conditions](#write-your-terms-and-conditions)
+  - [Produce cheat sheets](#produce-cheat-sheets)
+  - [Generate Readme Files](#generate-readme-files)
+  - [Write detailed blogs](#write-detailed-blogs)
+  - [Explain Code](#explain-code)
+  - [Architecture Diagram (Mermaid)](#architecture-diagram-mermaid)
+  - [Entity Relationship Diagram (Mermaid)](#entity-relationship-diagram-mermaid)
+  - [Refactor Code](#refactor-code)
+  - [Modernizing Old Code](#modernizing-old-code)
+  - [Code into Multiple Methods](#code-into-multiple-methods)
+  - [Better Performance](#better-performance)
+  - [Adding a Parameter to a Function](#adding-a-parameter-to-a-function)
+  - [Adding Coding Best Practices or Principles](#adding-coding-best-practices-or-principles)
+  - [Follow coding style guidelines](#follow-coding-style-guidelines)
+  - [Detecting and Fixing Errors](#detecting-and-fixing-errors)
+  - [Debug a React component](#debug-a-react-component)
+  - [Create Unit Tests](#create-unit-tests)
+  - [Transpiling Code](#transpiling-code)
+  - [Responsive Design](#responsive-design)
+  - [Internationalization](#internationalization)
+  - [Add comments to code](#add-comments-to-code)
+  - [Create Functions](#create-functions)
+  - [Generate a Dockerfile](#generate-a-dockerfile)
+  - [Write a RegEx](#write-a-regex)
+  - [Create a Class](#create-a-class)
+  - [Add Functionality](#add-functionality)
+  - [Create Boilerplate Code](#create-boilerplate-code)
+  - [You are a world-class software engineer](#you-are-a-world-class-software-engineer)
+  - [Error Handling](#error-handling)
+  - [Suggest Improvements](#suggest-improvements)
+  - [Generate Innovative Product Ideas](#generate-innovative-product-ideas)
+  - [Develop a Unique Value Proposition](#develop-a-unique-value-proposition)
+  - [Master the Art of Storytelling for Marketing](#master-the-art-of-storytelling-for-marketing)
+  - [Create a Successful Referral Program](#create-a-successful-referral-program)
+  - [Master the Art of Upselling and Cross-selling](#master-the-art-of-upselling-and-cross-selling)
+  - [Create a Viral Marketing Campaign](#create-a-viral-marketing-campaign)
+  - [Develop a Powerful Elevator Pitch](#develop-a-powerful-elevator-pitch)
+  - [Create an Actionable Marketing Plan](#create-an-actionable-marketing-plan)
+  - [Leverage Content Marketing for Lead Generation](#leverage-content-marketing-for-lead-generation)
+  - [Explain Code or Concept](#explain-code-or-concept)
+  - [Syntax Check](#syntax-check)
+  - [Bug Fixing Assistance](#bug-fixing-assistance)
+  - [Best Practices Guidance](#best-practices-guidance)
+  - [Code Optimization Request](#code-optimization-request)
+  - [Code Generation](#code-generation)
+  - [Code Conversion Assistance](#code-conversion-assistance)
+  - [Code Execution as Interpreter](#code-execution-as-interpreter)
+  - [Web Design Consultation Request](#web-design-consultation-request)
+  - [Framework Recommendation Request](#framework-recommendation-request)
+  - [Code Execution as Interpreter](#code-execution-as-interpreter)
+  - [Dataset Generation Request](#dataset-generation-request)
+  - [Web Scraping Assistance](#web-scraping-assistance)
+  - [Scalability Advice Request](#scalability-advice-request)
+  - [Deployment Strategy Recommendations](#deployment-strategy-recommendations)
 
 ### Modernize and add best practices
 
