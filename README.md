@@ -4,13 +4,6 @@ This repository contains a list of powerful ChatGPT prompts that can help you ge
 
 ## Table of Contents
 
-# 🤖 DEV ChatGPT Prompts
-
-This repository contains a list of powerful ChatGPT prompts that can help you get the creative juices flowing.
-
-## Table of Contents
-
-- [Prompts for Coders](#prompts-for-coders)
   - [Modernize and add best practices](#modernize-and-add-best-practices)
   - [Review your code for logical errors and security concerns](#review-your-code-for-logical-errors-and-security-concerns)
   - [Validate the recommendations (reflection)](#validate-the-recommendations-reflection)
