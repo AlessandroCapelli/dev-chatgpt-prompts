@@ -1,10 +1,6 @@
 # 🤖 DEV ChatGPT Prompts
 
-Welcome to my personal collection of ChatGPT prompts for developers! 🙌
-
-This repository contains a list of powerful ChatGPT prompts that can help you get the creative juices flowing. 💡 Whether you are a beginner or an experienced pro, these prompts can help you think outside the box and find new solutions to problems. 🚀
-
-The list is divided into categories: [ prompts for coders, students, marketers, and content writers ]. So no matter your profession, there is something here for everyone! 😊 Let’s dive right into these powerful ChatGPT prompts that can help take your creativity to the next level! 🌊
+This repository contains a list of powerful ChatGPT prompts that can help you get the creative juices flowing.
 
 ## Table of Contents
 
@@ -65,29 +61,7 @@ Prompts for Coders
   - [📣 Develop a powerful elevator pitch](#-develop-a-powerful-elevator-pitch)
   - [📣 Create an actionable marketing plan](#-create-an-actionable-marketing-plan)
   - [📣 Leverage content marketing for lead generation](#-leverage-content-marketing-for-lead-generation)
-
-## 🚩 Tips
-
-Like many things in life, with GPT-4, you get out what you put in. In this case, providing more context, instructions, and guidance will usually produce better results.
-
-Here are some tips and techniques to improve:
-
-- **Split your prompts:**
-Try breaking your prompts and desired outcome across multiple steps. Keeping prompts to have a single outcome has shown to produce better results than combined prompts. For example, ask for a review, then ask for a refactor based on the review response. This may become less important in time as LLMs increase their token limit.
-
-- **Give Examples:**
-Provide expected inputs, data and outputs to improve accuracy quality. 📝
-
-- **Be Specific:**
-Don’t be afraid to list exactly what you want, what you know, what is needed, and what not to include. 🔎
-
-- **Ask it to Reflect:**
-A technique called reflexion has been shown to increase GPT4’s accuracy. Basically ask it ‘Why were you wrong?’ or get it to reflect and review its own response. 🤔
-
-## 🔗 A multi-prompt approach (prompt chaining)
-
-can be used to update, refactor, and review a piece of code. A well-designed set of prompts is one where each has separated concerns and singular responsibilities.
-
+    
 ### 1. Modernize and add best practices
 
 ---
@@ -783,50 +757,89 @@ Develop a content marketing strategy for [insert business] to attract, engage, a
 
 <sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
-<details>
-
-<summary>
-
-## 📚 Tools
-
-</summary>
-
-- [ChatGPT](https://chat.openai.com/)
-- [Bard](https://bard.google.com/)
-
-</details>
-
 # ChatGPT Software Development Prompt Archive
 
 This repository serves as an archive of useful prompts for ChatGPT tailored to various software development tasks. Each prompt is provided with a title and a code-like format for your convenience. 
 
-## 1. Explain Code or Concept
 
+
+
+
+
+
+
+
+### 📣 Explain Code or Concept
+
+**Prompt:**
+
+```text
 Explain how the {concept or function} works in {programming language}.
+```
 
-## 2. Syntax Check
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣  Syntax Check
+
+**Prompt:**
+
+```text
 What is the correct syntax for a {statement or function} in {programming language}?
+```
 
-## 3. Bug Fixing Assistance
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣 Bug Fixing Assistance
+
+**Prompt:**
+
+```text
 How do I fix the following {programming language} code which {explain the functioning}? {code snippet}
+```
 
-## 4. Best Practices Guidance
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣 Best Practices Guidance
+
+**Prompt:**
+
+```text
 Show me best practices for writing {concept or function} in {programming language}.
+```
 
-## 5. Code Optimization Request
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣 Code Optimization Request
+
+**Prompt:**
+
+```text
 Optimize the following {programming language} code which {explain the functioning}: {code snippet}
+```
 
-## 6. Code Generation
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣 Code Generation
+
+**Prompt:**
+
+```text
 Write a program/function to {explain functionality} in {programming language}.
+```
 
-## 7. Code Conversion Assistance
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
 
+### 📣 Code Conversion Assistance
+
+**Prompt:**
+
+```text
 Convert the following {programming language 1} code to {programming language 2}: {code snippet}
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+
 
 ## 8. Code Execution as Interpreter
 
@@ -881,3 +894,125 @@ Can you help me write test cases for this feature {explain the feature}?
 What are the best deployment strategies for this software project? {explain the project}
 
 These enriched prompts provide clear titles and a code-like format for easy reference and use. Feel free to use them in your software development tasks.
+
+
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
+
+### 📣 Leverage content marketing for lead generation
+
+**Prompt:**
+
+```text
+Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers.
+```
+
+<sup>[⬆️ Back to table of contents](#table-of-contents)</sup>
